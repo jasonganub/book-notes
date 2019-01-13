@@ -1,7 +1,7 @@
 # Book Notes
 > Jogging my memory and jotting my learning
 
-1. [The Pragmatic Programmer](the-pragmatic-programmer.md)
+* [The Pragmatic Programmer](the-pragmatic-programmer.md)
 
 ## To read list
 > These books will remain here until completely finished.
